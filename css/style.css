@@ -1,0 +1,36 @@
+#body{
+  background-color:  purple;
+}
+
+#picture1{
+width: 20%;
+height: 35%;
+float: right;
+
+
+}
+
+#picture2{
+width: 20%;
+height: 35%;
+float: right;
+
+}
+
+#picture3{
+width: 20%;
+height: 35%;
+float: right;
+
+}
+
+h1{
+  text-align: center;
+  font-size: 30px;
+  font-style: oblique;
+  font: size 10px; ;
+}
+
+h2{
+padding: 5%;
+}
